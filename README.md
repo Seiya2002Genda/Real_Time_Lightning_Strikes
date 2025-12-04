@@ -1,0 +1,2 @@
+# Real_Time_Lightning_Strikes
+Kaggleに乗っているReal-time Lightning Strikesというデータセットを使って統計分析を行いました。
