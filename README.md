@@ -13,6 +13,9 @@ https://www.kaggle.com/datasets/vivektiwari020801/real-time-lightning-strikes/ve
 
 ダウンロードした `lightning.csv` をプロジェクト直下に置いてください。
 
+Created by Vivek Tiwari
+Real-time Lightning Strikes Global high-frequency lightning strike events, updated hourly
+
 ---
 
 ## 📂 File Structure
